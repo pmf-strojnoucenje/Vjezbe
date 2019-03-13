@@ -1,14 +1,14 @@
-# PMF Strojno učenje 2018 - Vježbe
+# PMF Strojno učenje 2019 - Vježbe
 
-Materijali za vježbe kolegija [Strojno učenje](https://web.math.pmf.unizg.hr/nastava/su/) Prirodoslovno-matematičkog fakulteta (PMF - Matematički odsjek) Sveučilišta u Zagrebu za akademsku godinu 2017./2018. 
+Materijali za vježbe kolegija [Strojno učenje](https://web.math.pmf.unizg.hr/nastava/su/) Prirodoslovno-matematičkog fakulteta (PMF - Matematički odsjek) Sveučilišta u Zagrebu za akademsku godinu 2018./2019. 
 
 ## Sadržaj vježbi
 
-* [Vježba 1 - Uvod u osnovne alate i priprema podataka](https://github.com/PMF-StrojnoUcenje2018/Vjezbe/blob/master/Notebooks/PMF_SU_2018_Vjezbe1_00_Osnove.ipynb)
-* [Vježba 2 - Nadzirano učenje](https://github.com/PMF-StrojnoUcenje2018/Vjezbe/blob/master/Notebooks/PMF_SU_2018_Vjezbe2_00_Nadzirani_modeli.ipynb)
-* [Vježba 3 - Odabir značajki](https://github.com/PMF-StrojnoUcenje2018/Vjezbe/blob/master/Notebooks/PMF_SU_2018_Vjezbe3_00_Odabir_znacajki.ipynb)
-* [Vježba 4 - Smanjivanje dimenzionalnosti](https://github.com/PMF-StrojnoUcenje2018/Vjezbe/blob/master/Notebooks/PMF_SU_2018_Vjezbe4_00_Smanjivanje_dimenzionalnosti.ipynb)
-* [Vježba 5 - Učenje bez nadzora](https://github.com/PMF-StrojnoUcenje2018/Vjezbe/blob/master/Notebooks/PMF_SU_2018_Vjezbe5_00_Ucenje_bez_nadzora.ipynb)
+* [Vježba 1 - Uvod u osnovne alate i priprema podataka](https://github.com/pmf-strojnoucenje/Vjezbe/blob/master/Notebooks/PMF_SU_2018_Vjezbe1_00_Osnove.ipynb)
+* [Vježba 2 - Nadzirano učenje](https://github.com/pmf-strojnoucenje/Vjezbe/blob/master/Notebooks/PMF_SU_2018_Vjezbe2_00_Nadzirani_modeli.ipynb)
+* [Vježba 3 - Odabir značajki](https://github.com/pmf-strojnoucenje/Vjezbe/blob/master/Notebooks/PMF_SU_2018_Vjezbe3_00_Odabir_znacajki.ipynb)
+* [Vježba 4 - Smanjivanje dimenzionalnosti](https://github.com/pmf-strojnoucenje/Vjezbe/blob/master/Notebooks/PMF_SU_2018_Vjezbe4_00_Smanjivanje_dimenzionalnosti.ipynb)
+* [Vježba 5 - Učenje bez nadzora](https://github.com/pmf-strojnoucenje/Vjezbe/blob/master/Notebooks/PMF_SU_2018_Vjezbe5_00_Ucenje_bez_nadzora.ipynb)
 * Vježba 6 - Duboko učenje
 
 ## Anaconda okruženje
@@ -61,7 +61,7 @@ Kako bi preuzeli ažurirane materijale za vježbe u prije klonirani repozitorij,
   git pull origin master
   ```
 
-Kao alternativnu za gore navedeni postupak možete preuzmiti zip arhivu trenutnog stanja repozitorija s [https://github.com/PMF-StrojnoUcenje2018/Vjezbe/archive/master.zip](https://github.com/PMF-StrojnoUcenje2018/Vjezbe/archive/master.zip).
+Kao alternativnu za gore navedeni postupak možete preuzmiti zip arhivu trenutnog stanja repozitorija s [https://github.com/pmf-strojnoucenje/Vjezbe/archive/master.zip](https://github.com/pmf-strojnoucenje/Vjezbe/archive/master.zip).
 
 ## Jupyter
 Sve vježbe su spremljene kao Python bilježnice sustava Jupyter [http://jupyter.org/] kojeg možete pokrenuti na sljedeći način iz komadne linije:
