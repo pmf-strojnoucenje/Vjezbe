@@ -4,11 +4,11 @@ Materijali za vježbe kolegija [Strojno učenje](https://web.math.pmf.unizg.hr/n
 
 ## Sadržaj vježbi
 
-* [Vježba 1 - Uvod u osnovne alate i priprema podataka](https://github.com/pmf-strojnoucenje/Vjezbe/blob/master/Notebooks/PMF_SU_2018_Vjezbe1_00_Osnove.ipynb)
-* [Vježba 2 - Nadzirano učenje](https://github.com/pmf-strojnoucenje/Vjezbe/blob/master/Notebooks/PMF_SU_2018_Vjezbe2_00_Nadzirani_modeli.ipynb)
-* [Vježba 3 - Odabir značajki](https://github.com/pmf-strojnoucenje/Vjezbe/blob/master/Notebooks/PMF_SU_2018_Vjezbe3_00_Odabir_znacajki.ipynb)
-* [Vježba 4 - Smanjivanje dimenzionalnosti](https://github.com/pmf-strojnoucenje/Vjezbe/blob/master/Notebooks/PMF_SU_2018_Vjezbe4_00_Smanjivanje_dimenzionalnosti.ipynb)
-* [Vježba 5 - Učenje bez nadzora](https://github.com/pmf-strojnoucenje/Vjezbe/blob/master/Notebooks/PMF_SU_2018_Vjezbe5_00_Ucenje_bez_nadzora.ipynb)
+* [Vježba 1 - Uvod u osnovne alate i priprema podataka](https://github.com/pmf-strojnoucenje/Vjezbe/blob/master/Notebooks/PMF_SU_2019_Vjezbe1_00_Osnove.ipynb)
+* [Vježba 2 - Nadzirano učenje](https://github.com/pmf-strojnoucenje/Vjezbe/blob/master/Notebooks/PMF_SU_2019_Vjezbe2_00_Nadzirano_ucenje.ipynb)
+* [Vježba 3 - Odabir značajki](https://github.com/pmf-strojnoucenje/Vjezbe/blob/master/Notebooks/PMF_SU_2019_Vjezbe3_00_Odabir_znacajki.ipynb)
+* [Vježba 4 - Smanjivanje dimenzionalnosti](https://github.com/pmf-strojnoucenje/Vjezbe/blob/master/Notebooks/PMF_SU_2019_Vjezbe4_00_Smanjivanje_dimenzionalnosti.ipynb)
+* [Vježba 5 - Učenje bez nadzora](https://github.com/pmf-strojnoucenje/Vjezbe/blob/master/Notebooks/PMF_SU_2019_Vjezbe5_00_Ucenje_bez_nadzora.ipynb)
 * Vježba 6 - Duboko učenje
 
 ## Anaconda okruženje
@@ -54,7 +54,7 @@ Slično kao i za Windows, najjednostavniji način za instalaciju programskog pak
 
 Git je sustav za upravljanje izvornim kodom, klijentski program za korištenje sustava Git možete preuzeti s [https://git-scm.com/downloads](https://git-scm.com/downloads). Iz komandne linije ([Anaconda] Command Prompt na Windowsima ili Terminal na Linux/Mac OS X) pozicionirajte se u željeni direktorij i klonirajte git repozitorij naredbom:
   ```
-  git clone https://github.com/PMF-StrojnoUcenje2018/Vjezbe.git
+  git clone https://github.com/pmf-strojnoucenje/Vjezbe.git
   ```
 Kako bi preuzeli ažurirane materijale za vježbe u prije klonirani repozitorij, pozicionirajte se u drirektorij kloniranog repozitorija i preuzmite nove promjene repozitorija koristeći git naredbu:
   ```
