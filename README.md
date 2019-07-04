@@ -9,7 +9,7 @@ Materijali za vježbe kolegija [Strojno učenje](https://web.math.pmf.unizg.hr/n
 * [Vježba 3 - Odabir značajki](https://github.com/pmf-strojnoucenje/Vjezbe/blob/master/Notebooks/PMF_SU_2019_Vjezbe3_00_Odabir_znacajki.ipynb)
 * [Vježba 4 - Smanjivanje dimenzionalnosti](https://github.com/pmf-strojnoucenje/Vjezbe/blob/master/Notebooks/PMF_SU_2019_Vjezbe4_00_Smanjivanje_dimenzionalnosti.ipynb)
 * [Vježba 5 - Učenje bez nadzora](https://github.com/pmf-strojnoucenje/Vjezbe/blob/master/Notebooks/PMF_SU_2019_Vjezbe5_00_Ucenje_bez_nadzora.ipynb)
-* Vježba 6 - Duboko učenje
+
 
 ## Anaconda okruženje
 
