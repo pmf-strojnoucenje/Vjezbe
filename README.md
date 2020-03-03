@@ -1,6 +1,6 @@
-# PMF Strojno učenje 2019 - Vježbe
+# PMF Strojno učenje 2020 - Vježbe
 
-Materijali za vježbe kolegija [Strojno učenje](https://web.math.pmf.unizg.hr/nastava/su/) Prirodoslovno-matematičkog fakulteta (PMF - Matematički odsjek) Sveučilišta u Zagrebu za akademsku godinu 2018./2019. 
+Materijali za vježbe kolegija [Strojno učenje](https://web.math.pmf.unizg.hr/nastava/su/) Prirodoslovno-matematičkog fakulteta (PMF - Matematički odsjek) Sveučilišta u Zagrebu za akademsku godinu 2019./2020. 
 
 ## Sadržaj vježbi
 
