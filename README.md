@@ -4,11 +4,11 @@ Materijali za vježbe kolegija [Strojno učenje](https://web.math.pmf.unizg.hr/n
 
 ## Sadržaj vježbi
 
-* [Vježba 1 - Uvod u osnovne alate i priprema podataka](https://github.com/pmf-strojnoucenje/Vjezbe/blob/master/Notebooks/PMF_SU_2019_Vjezbe1_00_Osnove.ipynb)
-* [Vježba 2 - Nadzirano učenje](https://github.com/pmf-strojnoucenje/Vjezbe/blob/master/Notebooks/PMF_SU_2019_Vjezbe2_00_Nadzirano_ucenje.ipynb)
-* [Vježba 3 - Odabir značajki](https://github.com/pmf-strojnoucenje/Vjezbe/blob/master/Notebooks/PMF_SU_2019_Vjezbe3_00_Odabir_znacajki.ipynb)
-* [Vježba 4 - Smanjivanje dimenzionalnosti](https://github.com/pmf-strojnoucenje/Vjezbe/blob/master/Notebooks/PMF_SU_2019_Vjezbe4_00_Smanjivanje_dimenzionalnosti.ipynb)
-* [Vježba 5 - Učenje bez nadzora](https://github.com/pmf-strojnoucenje/Vjezbe/blob/master/Notebooks/PMF_SU_2019_Vjezbe5_00_Ucenje_bez_nadzora.ipynb)
+* [Vježba 1 - Uvod u osnovne alate i priprema podataka](https://github.com/pmf-strojnoucenje/Vjezbe/blob/master/Notebooks/PMF_SU_2020_Vjezbe1_00_Osnove.ipynb)
+* [Vježba 2 - Nadzirano učenje](https://github.com/pmf-strojnoucenje/Vjezbe/blob/master/Notebooks/PMF_SU_2020_Vjezbe2_00_Nadzirano_ucenje.ipynb)
+* [Vježba 3 - Odabir značajki](https://github.com/pmf-strojnoucenje/Vjezbe/blob/master/Notebooks/PMF_SU_2020_Vjezbe3_00_Odabir_znacajki.ipynb)
+* [Vježba 4 - Smanjivanje dimenzionalnosti](https://github.com/pmf-strojnoucenje/Vjezbe/blob/master/Notebooks/PMF_SU_2020_Vjezbe4_00_Smanjivanje_dimenzionalnosti.ipynb)
+* [Vježba 5 - Učenje bez nadzora](https://github.com/pmf-strojnoucenje/Vjezbe/blob/master/Notebooks/PMF_SU_2020_Vjezbe5_00_Ucenje_bez_nadzora.ipynb)
 
 
 ## Anaconda okruženje
